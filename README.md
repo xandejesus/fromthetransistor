@@ -1,4 +1,4 @@
-# fromthetransistor
+#fromthetransistor
 Copied from geohot's fromthetransistor, me actually attempting to do it.
 
 ## Sources 
@@ -11,7 +11,8 @@ Copied from geohot's fromthetransistor, me actually attempting to do it.
 ## Intro
 * I don't think that programming experience is required, but Googling skills would be helpful
 * Current Requirements
-	* A UNIX terminal of some sort (WSL, MacOS, or native Linux works)
+	* A computer
+	* Some basic critical thinking skills
 	* Minecraft. Literally just minecraft.
 # Process
 
