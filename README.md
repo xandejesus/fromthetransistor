@@ -17,6 +17,7 @@ Copied from geohot's fromthetransistor, me actually attempting to do it.
 # Process
 
 1. Make an ALU by yourself (1 - 2 weeks)
+	* Goal: Learn HDL, learn how to get from a transistor to something that resembles a computer
 	* Learn basic logic gates
  	* https://www.nand2tetris.org/project01 do this. Not all of it, probably just skim and maybe do one of the 16-bit things
 	* I honestly don't know why geohot didn't include this in his, but he's a noob
